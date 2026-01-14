@@ -200,7 +200,7 @@ const Contact = () => {
                                 Get a PDF copy of my complete resume with all my qualifications and experience.
                             </p>
                             <a
-                                href="/resume.pdf"
+                                href="/public/resume.pdf"
                                 download
                                 className="inline-block px-6 py-2 bg-white text-primary-600 rounded-lg font-semibold hover:bg-gray-100 transition-colors"
                             >

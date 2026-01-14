@@ -5,7 +5,7 @@ const Projects = () => {
         {
             title: 'Vestigia - Cultural Landmark Explorer',
             description: 'A full-stack web platform addressing the lack of culturally focused travel tools by integrating interactive maps, curated landmark data, and community features. Reduced user interaction steps by 30%.',
-            image: '/vestigiaPreview.png',
+            image: '/public/vestigiaPreview.png',
             technologies: ['JavaScript', 'HTML/CSS', 'Leaflet.js', 'SQL', 'APIs'],
             github: null,
             live: 'https://vestigiaweb.netlify.app',
@@ -14,7 +14,7 @@ const Projects = () => {
         {
             title: 'Musilize - Spotify Insights Dashboard',
             description: 'A responsive Spotify analytics dashboard enabling users to visualize listening habits and manage playlists. Implemented secure OAuth authentication using Netlify serverless functions and Supabase.',
-            image: '/musilizePreview.png',
+            image: '/public/musilizePreview.png',
             technologies: ['TypeScript', 'React', 'Supabase', 'Spotify Web API'],
             github: 'https://github.com/danielRomanov11/musilize',
             live: null,
